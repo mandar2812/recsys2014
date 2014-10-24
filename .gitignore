@@ -1,0 +1,11 @@
+target/*
+!target
+
+
+*.png
+data/dump*
+data/training.dat
+data/participant*
+.idea
+*.iml
+*.jar
